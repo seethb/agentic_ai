@@ -4,7 +4,7 @@ Agentic_AI_Metadata
 python3 ybmetadata_ai.py
 
 # sample output
-(arm_env) bseetharaman@bs-mbp-7xhdq ~ % python pgmetaopenai.py
+(arm_env) bseetharaman@bs-mbp-7xhdq ~ % python3 pgmetaopenai.py
 Connected to PostgreSQL database successfully!
 ..........
 "yugabyte_metadata.yugabyte_imported_event_count_by_table": {
